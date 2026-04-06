@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-counter-application-339127-339147/frontend_counter_app"
+}
